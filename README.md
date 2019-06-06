@@ -1,2 +1,1 @@
-# Bill_Qian
-2019-6-6 learn go
+Fisrt time I use github today. This is just a test.
